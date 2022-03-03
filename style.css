@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 .navbar-header{
     background-color: rgb(107, 167, 163);
@@ -51,4 +52,25 @@ body {
 }
 tr {
     border: 1px solid #ddd;
+}
+
+button {
+    border-radius: 5px;
+    box-shadow: 5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+    font-size: large;
+    
+}
+
+#play {
+    background-color: green;
+}
+
+#pause {
+    background-color: yellow;
+}
+
+#stop {
+    background-color: red;
 }
