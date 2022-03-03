@@ -8,4 +8,4 @@
 
 ## Exemplo
 
-![Projeto](readme-imgs/exemplo_1.png)
+![Projeto](readme-imgs/exemplo.png)
